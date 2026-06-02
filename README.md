@@ -56,9 +56,9 @@
 
 ## 📥 下载安装
 
-从 [Releases 页面](https://github.com/1269779106-lang/codex-plus-plus/releases) 下载最新版：
+从 [Releases 页面](https://github.com/1269779106-lang/codex-plus-plus/releases) 下载最新版，或直接点击下载：
 
-- **Windows：** `CodexPlusPlus-*-windows-x64-setup.exe`
+- **[📥 CodexPlusPlus-1.1.9-alpha.2-windows-x64-setup.exe](./CodexPlusPlus-1.1.9-alpha.2-windows-x64-setup.exe)** (7.5MB)
 
 > 源码及更多版本请见上游仓库：[BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)
 
